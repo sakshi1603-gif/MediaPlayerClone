@@ -1,16 +1,16 @@
 # 🎬 Media Player Clone
 
-A VLC-inspired media player built using HTML, CSS, and JavaScript to understand core media handling, UI design, and playback functionality.
+A VLC-inspired media player built using **HTML, CSS, and JavaScript** to understand how media playback, controls, and UI systems work in real-world applications.
 
 ---
 
 ## 🚀 Features
 
 * ▶️ Play / Pause functionality
-* ⏩ Seek (forward / backward)
+* ⏩ Seek bar (forward / backward control)
 * 🔊 Volume control
+* ⏱️ Progress bar synchronization
 * 📺 Clean and responsive UI
-* ⏱️ Timeline / progress bar
 
 ---
 
@@ -22,18 +22,24 @@ A VLC-inspired media player built using HTML, CSS, and JavaScript to understand 
 
 ---
 
+## 📸 Preview
+
+![Media Player UI](./fair/vlclogo.png)
+
+---
+
 ## 📚 What I Learned
 
-* Handling video/audio elements in JavaScript
-* Synchronizing UI with media playback
+* Handling audio/video elements using JavaScript
 * DOM manipulation and event handling
-* Building real-world UI components
+* Synchronizing UI with media playback
+* Building interactive UI components
 
 ---
 
 ## 🎯 Purpose
 
-This project was built as a learning exercise inspired by VLC Media Player to understand how media players work internally.
+This project was built as a learning exercise inspired by VLC Media Player to understand how a media player works internally.
 
 ---
 
@@ -41,7 +47,7 @@ This project was built as a learning exercise inspired by VLC Media Player to un
 
 * Add subtitles support
 * Add playlist functionality
-* Improve UI/UX
+* Improve UI/UX design
 * Add keyboard shortcuts
 
 ---
@@ -54,4 +60,4 @@ This project is inspired by VLC Media Player (by VideoLAN) and is built only for
 
 ## 🙌 Author
 
-Sakshi
+**Sakshi**
